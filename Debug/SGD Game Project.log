@@ -1,0 +1,102 @@
+﻿Build started 2/25/2015 4:08:14 PM.
+     1>Project "F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\SGD Game Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /we4010 /we4150 /we4154 /we4172 /we4263 /we4265 /we4390 /we4550 /we4551 /we4552 /we4553 /we4554 /we4555 /we4700 /we4702 /we4706 /we4715 /we4717 /we4930 "SGD Wrappers\SGD_AudioManager.cpp" "SGD Wrappers\SGD_Event.cpp" "SGD Wrappers\SGD_EventManager.cpp" "SGD Wrappers\SGD_Geometry.cpp" "SGD Wrappers\SGD_GraphicsManager.cpp" "SGD Wrappers\SGD_IListener.cpp" "SGD Wrappers\SGD_InputManager.cpp" "SGD Wrappers\SGD_Message.cpp" "SGD Wrappers\SGD_MessageManager.cpp" "SGD Wrappers\SGD_Utilities.cpp" source\AddScoreMessage.cpp source\AnchorPointAnimation.cpp source\Arrow.cpp source\BitmapFont.cpp source\Bush.cpp source\CellAnimation.cpp source\Character.cpp source\Cloud.cpp source\CreateArrowMessage.cpp source\CreateOrcArrowMsg.cpp source\CreateOrcMessage.cpp source\CreditsState.cpp source\DestroyEntityMessage.cpp source\Entity.cpp source\EntityManager.cpp source\Game.cpp source\GameOverMessage.cpp source\GameplayState.cpp source\Ground.cpp source\Hero.cpp source\HowToPlayState.cpp source\IntroState.cpp source\main.cpp source\MainMenuState.cpp source\Mountain.cpp source\OptionsState.cpp source\Orc.cpp source\OrcBow.cpp source\PauseMenu.cpp source\Plant.cpp source\SlashMessage.cpp source\StatOrb.cpp source\Tree.cpp
+         Tree.cpp
+         StatOrb.cpp
+         SlashMessage.cpp
+         Plant.cpp
+         PauseMenu.cpp
+         OrcBow.cpp
+         Orc.cpp
+         OptionsState.cpp
+         Mountain.cpp
+         MainMenuState.cpp
+         main.cpp
+         IntroState.cpp
+         HowToPlayState.cpp
+         Hero.cpp
+         Ground.cpp
+         GameplayState.cpp
+         GameOverMessage.cpp
+         Game.cpp
+         EntityManager.cpp
+         Entity.cpp
+         Generating Code...
+         Compiling...
+         DestroyEntityMessage.cpp
+         CreditsState.cpp
+         CreateOrcMessage.cpp
+         CreateOrcArrowMsg.cpp
+         CreateArrowMessage.cpp
+         Cloud.cpp
+         Character.cpp
+         CellAnimation.cpp
+         Bush.cpp
+         BitmapFont.cpp
+         Arrow.cpp
+         AnchorPointAnimation.cpp
+         AddScoreMessage.cpp
+         SGD_Utilities.cpp
+         SGD_MessageManager.cpp
+         SGD_Message.cpp
+         SGD_InputManager.cpp
+         SGD_IListener.cpp
+         SGD_GraphicsManager.cpp
+         SGD_Geometry.cpp
+         Generating Code...
+         Compiling...
+         SGD_EventManager.cpp
+         SGD_Event.cpp
+         SGD_AudioManager.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Debug\SGD Game Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Debug\SGD Game Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Debug\SGD Game Project.lib" /MACHINE:X86 Debug\SGD_AudioManager.obj
+         Debug\SGD_Event.obj
+         Debug\SGD_EventManager.obj
+         Debug\SGD_Geometry.obj
+         Debug\SGD_GraphicsManager.obj
+         Debug\SGD_IListener.obj
+         Debug\SGD_InputManager.obj
+         Debug\SGD_Message.obj
+         Debug\SGD_MessageManager.obj
+         Debug\SGD_Utilities.obj
+         Debug\AddScoreMessage.obj
+         Debug\AnchorPointAnimation.obj
+         Debug\Arrow.obj
+         Debug\BitmapFont.obj
+         Debug\Bush.obj
+         Debug\CellAnimation.obj
+         Debug\Character.obj
+         Debug\Cloud.obj
+         Debug\CreateArrowMessage.obj
+         Debug\CreateOrcArrowMsg.obj
+         Debug\CreateOrcMessage.obj
+         Debug\CreditsState.obj
+         Debug\DestroyEntityMessage.obj
+         Debug\Entity.obj
+         Debug\EntityManager.obj
+         Debug\Game.obj
+         Debug\GameOverMessage.obj
+         Debug\GameplayState.obj
+         Debug\Ground.obj
+         Debug\Hero.obj
+         Debug\HowToPlayState.obj
+         Debug\IntroState.obj
+         Debug\main.obj
+         Debug\MainMenuState.obj
+         Debug\Mountain.obj
+         Debug\OptionsState.obj
+         Debug\Orc.obj
+         Debug\OrcBow.obj
+         Debug\PauseMenu.obj
+         Debug\Plant.obj
+         Debug\SlashMessage.obj
+         Debug\StatOrb.obj
+         Debug\Tree.obj
+         SGD Game Project.vcxproj -> F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Debug\SGD Game Project.exe
+     1>Done Building Project "F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\SGD Game Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.32

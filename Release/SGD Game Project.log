@@ -1,0 +1,57 @@
+﻿Build started 2/25/2015 12:52:10 PM.
+     1>Project "F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\SGD Game Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /we4010 /we4150 /we4154 /we4172 /we4263 /we4265 /we4390 /we4550 /we4551 /we4552 /we4553 /we4554 /we4555 /we4700 /we4702 /we4706 /we4715 /we4717 /we4930 source\Mountain.cpp
+         Mountain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Release\SGD Game Project.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Release\SGD Game Project.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Release\SGD Game Project.lib" /MACHINE:X86 /SAFESEH Release\SGD_AudioManager.obj
+         Release\SGD_Event.obj
+         Release\SGD_EventManager.obj
+         Release\SGD_Geometry.obj
+         Release\SGD_GraphicsManager.obj
+         Release\SGD_IListener.obj
+         Release\SGD_InputManager.obj
+         Release\SGD_Message.obj
+         Release\SGD_MessageManager.obj
+         Release\SGD_Utilities.obj
+         Release\AddScoreMessage.obj
+         Release\AnchorPointAnimation.obj
+         Release\Arrow.obj
+         Release\BitmapFont.obj
+         Release\Bush.obj
+         Release\CellAnimation.obj
+         Release\Character.obj
+         Release\Cloud.obj
+         Release\CreateArrowMessage.obj
+         Release\CreateOrcArrowMsg.obj
+         Release\CreateOrcMessage.obj
+         Release\CreditsState.obj
+         Release\DestroyEntityMessage.obj
+         Release\Entity.obj
+         Release\EntityManager.obj
+         Release\Game.obj
+         Release\GameOverMessage.obj
+         Release\GameplayState.obj
+         Release\Ground.obj
+         Release\Hero.obj
+         Release\HowToPlayState.obj
+         Release\IntroState.obj
+         Release\main.obj
+         Release\MainMenuState.obj
+         Release\Mountain.obj
+         Release\OptionsState.obj
+         Release\Orc.obj
+         Release\OrcBow.obj
+         Release\PauseMenu.obj
+         Release\Plant.obj
+         Release\SlashMessage.obj
+         Release\StatOrb.obj
+         Release\Tree.obj
+         Generating code
+         Finished generating code
+         SGD Game Project.vcxproj -> F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\Release\SGD Game Project.exe
+     1>Done Building Project "F:\Classes\Structure of Game Design\SGDGameProject_25de55d3-b926-414e-9c3a-2c4409d8e62f\Code\SGD Game Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.99
